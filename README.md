@@ -1,12 +1,8 @@
 # CELEBAL
 This repository includes Python solutions to various programming exercises focused on practicing key concepts such as conditional logic (if-else), arithmetic operations, string compression, iterators and combinations, tuples, and string formatting. Each solution is written in a separate script with clear explanations and illustrative examples.
 
-# Given Tasks :
 
-py-if-else task: Uses conditional statements (if-elif-else) to make decisions based on input values. python-arithmetic-operators: Involves performing basic mathematical operations like addition, subtraction, multiplication, and division. compress-the-string: Compresses a string by counting consecutive characters, often using itertools.groupby(). the-minion-game: A string game where players earn points by forming substrings starting with vowels or consonants. write-a-function: Teaches how to define reusable blocks of code using the def keyword. word-order: Counts and displays the number of occurrences of each word while preserving their input order. iterables-and-iterators: Works with iterators and combinations to solve problems involving sequences and probabilities. python-tuples: Introduces immutable sequences and their use in operations like hashing. finding-the-percentage: Calculates and formats the average marks of a student from a given dataset. python-string-formatting: Demonstrates ways to format and align strings and numbers for clean output.
-
-
-## Tasks Covered
+## Tasks -> 1
 
 | Task Name                  | Description                                                        |
 |---------------------------|---------------------------------------------------------------------|
@@ -20,6 +16,21 @@ py-if-else task: Uses conditional statements (if-elif-else) to make decisions ba
 | `python-tuples`           | Explains tuples (unchangeable lists) and how to use them.           |
 | `finding-the-percentage`  | Calculates a student’s average marks.                               |
 | `python-string-formatting`| Formats text and numbers for neat output.                           |
+
+## Tasks -> 2 
+
+| Task Name              | Description                                                               |
+|------------------------|---------------------------------------------------------------------------|
+| `alphabet_rangoli`     | Prints a rangoli pattern using the alphabet in a symmetrical format.      |
+| `capitalize`           | Capitalizes the first letter of each word in a string.                    |
+| `collections_counter`  | Uses `collections.Counter` to manage inventory and calculate earnings.    |
+| `discard_set`          | Demonstrates use of set operations: `pop`, `remove`, `discard`.           |
+| `exceptions`           | Validates regex patterns using `try-except` to handle exceptions.         |
+| `incorrect_regex`      | Checks if given regular expressions are syntactically correct.            |
+| `merge_tools`          | Splits a string into substrings and removes duplicate characters.         |
+| `sets`                 | Calculates average of distinct elements in a set.                         |
+| `text_wrap`            | Wraps text into lines of a specified width using `textwrap` module.       |
+
 
 ## How to Run the Scripts
 
