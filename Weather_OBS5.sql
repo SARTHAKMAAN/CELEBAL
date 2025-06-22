@@ -1,0 +1,11 @@
+-- City with shortest name
+SELECT CITY, LENGTH(CITY) AS name_length
+FROM STATION
+ORDER BY LENGTH(CITY) ASC, CITY ASC
+LIMIT 1;
+
+-- City with longest name
+SELECT CITY, LENGTH(CITY) AS name_length
+FROM STATION
+ORDER BY LENGTH(CITY) DESC, CITY ASC
+LIMIT 1;
