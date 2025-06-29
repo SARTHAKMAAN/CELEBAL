@@ -91,6 +91,6 @@ Each problem solution is accompanied by a screenshot showcasing the output/resul
 **Sarthak Maan**  
 Assignment-4 | Celebal Technologies  
 SRM University 
-B.Tech CSE (DSAI)
+B.Tech CSE (core)
 
 ---
